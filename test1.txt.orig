@@ -1,6 +1,6 @@
 this is test1 file
 <<<<<<< HEAD
-THIs is line by master branch 
+line is written master
 =======
-This line is edited by test branch
+Line edited by test branch 
 >>>>>>> test
